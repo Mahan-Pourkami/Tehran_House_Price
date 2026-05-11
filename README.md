@@ -133,7 +133,7 @@ This project is available for educational and research purposes.
 
 ## 👥 Contributors
 
-[Your Name/Organization]
+Mahan.F.Pourkami
 
 ---
 
