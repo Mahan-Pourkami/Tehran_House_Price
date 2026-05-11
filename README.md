@@ -70,8 +70,8 @@ The notebook includes comprehensive scatter plots showing relationships between:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Mahan-Pourkami/House_price
-cd House_price
+git clone https://github.com/Mahan-Pourkami/Tehran_House_Price
+cd Tehran_House_Price
 ```
 
 2. **Install dependencies**
