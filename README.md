@@ -61,7 +61,8 @@ The notebook includes comprehensive scatter plots showing relationships between:
 ```
 ├── data/
 │   └── House_price.csv          # Input dataset
-├── main.ipynb                    # Jupyter notebook with full implementation
+├── Notebooks
+    ├── main.ipynb                    # Jupyter notebook with full implementation
 └── requirements.txt              # Python dependencies
 ```
 
