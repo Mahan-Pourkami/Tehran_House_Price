@@ -63,11 +63,14 @@ The notebook includes comprehensive scatter plots showing relationships between:
 ## 📁 Project Structure
 
 ```
-├── data/
+├── API
+│   └── get_usd.py   #a simple GET request to use the live usdt exchnage rate in rial's price calculation 
+├── data
 │   └── House_price.csv          # Input dataset
 ├── Notebooks
     ├── main.ipynb                    # Jupyter notebook with full implementation
 └── requirements.txt              # Python dependencies
+
 ```
 
 ## 🔧 Installation & Setup
