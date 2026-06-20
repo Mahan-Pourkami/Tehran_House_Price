@@ -26,6 +26,7 @@ The encoding approach creates features by mapping each categorical value to the 
 Which neighborhoods exist in our data?🏡 :
 
 Shahran , Pardis , Shahrake Qods , Shahrake Gharb , North Program Organization , Andisheh , West Ferdows Boulevard , Narmak , Saadat Abad , Zafar , Islamshahr , Pirouzi , Shahrake Shahid Bagheri , Moniriyeh , Velenjak , Amirieh , Southern Janatabad , Salsabil , Zargandeh , Feiz Garden , Water Organization , nan , ShahrAra , Gisha , Ray , Abbasabad , Ostad Moein , Farmanieh , Parand , Punak , Qasr-od-Dasht , Aqdasieh , Pakdasht , Railway , Central Janatabad , East Ferdows Boulevard , Pakdasht KhatunAbad , Sattarkhan , Baghestan , Shahryar , Northern Janatabad , Daryan No , Southern Program Organization , Rudhen , West Pars , Afsarieh , Marzdaran , Dorous , Sadeghieh , Chahardangeh , Baqershahr , Jeyhoon , Lavizan , Shams Abad , Fatemi , Keshavarz Boulevard , Kahrizak , Qarchak , Northren Jamalzadeh , Azarbaijan , Bahar , Persian Gulf Martyrs Lake , Beryanak , Heshmatieh , Elm-o-Sanat , Golestan , Shahr-e-Ziba , Pasdaran , Chardivari , Gheitarieh , Kamranieh , Gholhak , Heravi , Hashemi , Dehkade Olampic , Damavand , Republic , Zaferanieh , Qazvin Imamzadeh Hassan , Niavaran , Valiasr , Qalandari , Amir Bahador , Ekhtiarieh , Ekbatan , Absard , Haft Tir , Mahallati , Ozgol , Tajrish , Abazar , Koohsar , Hekmat , Parastar , Lavasan , Majidieh , Southern Chitgar , Karimkhan , Si Metri Ji , Karoon , Northern Chitgar , East Pars , Kook , Air force , Sohanak , Komeil , Azadshahr , Zibadasht , Amirabad , Dezashib , Elahieh , Mirdamad , Razi , Jordan , Mahmoudieh , Shahedshahr , Yaftabad , Mehran , Nasim Shahr , Tenant , Chardangeh , Fallah , Eskandari , Shahrakeh Naft , Ajudaniye , Tehransar , Nawab , Yousef Abad , Northern Suhrawardi , Villa , Hakimiyeh , Nezamabad , Garden of Saba , Tarasht , Azari , Shahrake Apadana , Araj , Vahidieh , Malard , Shahrake Azadi , Darband , Vanak , Tehran Now , Darabad , Eram , Atabak , Sabalan , SabaShahr , Shahrake Madaen , Waterfall , Ahang , Salehabad , Pishva , Enghelab , Islamshahr Elahieh , Ray - Montazeri , Firoozkooh Kuhsar , Ghoba , Mehrabad , Southern Suhrawardi , Abuzar , Dolatabad , Hor Square , Taslihat , Kazemabad , Robat Karim , Ray - Pilgosh , Ghiyamdasht , Telecommunication , Mirza Shirazi , Gandhi , Argentina , Seyed Khandan , Shahrake Quds , Safadasht , Khademabad Garden , Hassan Abad , Chidz , Khavaran , Boloorsazi , Mehrabad River River , Varamin - Beheshti , Shoosh , Thirteen November , Darakeh , Aliabad South , Alborz Complex , Firoozkooh , Vahidiyeh , Shadabad , Naziabad , Javadiyeh , Yakhchiabad
+
 ## 📊 Data Filters Applied
 
 The dataset is cleaned using the following criteria:
@@ -64,7 +65,8 @@ The notebook includes comprehensive scatter plots showing relationships between:
 ```
 ├── data/
 │   └── House_price.csv          # Input dataset
-├── main.ipynb                    # Jupyter notebook with full implementation
+├── Notebooks
+    ├── main.ipynb                    # Jupyter notebook with full implementation
 └── requirements.txt              # Python dependencies
 ```
 
@@ -72,8 +74,8 @@ The notebook includes comprehensive scatter plots showing relationships between:
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/Mahan-Pourkami/Tehran_House_Price
+cd Tehran_House_Price
 ```
 
 2. **Install dependencies**
@@ -136,7 +138,7 @@ This project is available for educational and research purposes.
 
 ## 👥 Contributors
 
-[Your Name/Organization]
+Mahan.F.Pourkami
 
 ---
 
